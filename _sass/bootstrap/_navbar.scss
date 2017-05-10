@@ -419,6 +419,7 @@
       &:focus {
         color: $navbar-default-link-hover-color;
         background-color: $navbar-default-link-hover-bg;
+        border-bottom: 3px $navbar-default-link-active-color;
       }
     }
     > .active > a {
@@ -427,6 +428,7 @@
       &:focus {
         color: $navbar-default-link-active-color;
         background-color: $navbar-default-link-active-bg;
+        border-bottom: 3px $navbar-default-link-active-color;
       }
     }
     > .disabled > a {
