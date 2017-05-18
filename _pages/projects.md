@@ -1,5 +1,7 @@
 ---
 layout: default
-title: blog
-permalink: /blog/
+title: projects
+permalink: /projects/
 ---
+
+Recent work – newest to oldest. 
